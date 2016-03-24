@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\06HalfTriangleNestedForLoop\bin\Debug\06HalfTriangleNestedForLoop.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\06HalfTriangleNestedForLoop\bin\Debug\06HalfTriangleNestedForLoop.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\06HalfTriangleNestedForLoop\bin\Debug\06HalfTriangleNestedForLoop.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\06HalfTriangleNestedForLoop\obj\Debug\06HalfTriangleNestedForLoop.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\06HalfTriangleNestedForLoop\obj\Debug\06HalfTriangleNestedForLoop.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\06HalfTriangleNestedForLoop\obj\Debug\06HalfTriangleNestedForLoop.pdb
