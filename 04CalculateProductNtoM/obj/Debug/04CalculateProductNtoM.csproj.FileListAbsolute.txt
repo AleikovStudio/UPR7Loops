@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\04CalculateProductNtoM\bin\Debug\04CalculateProductNtoM.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\04CalculateProductNtoM\bin\Debug\04CalculateProductNtoM.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\04CalculateProductNtoM\bin\Debug\04CalculateProductNtoM.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\04CalculateProductNtoM\obj\Debug\04CalculateProductNtoM.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\04CalculateProductNtoM\obj\Debug\04CalculateProductNtoM.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\04CalculateProductNtoM\obj\Debug\04CalculateProductNtoM.pdb

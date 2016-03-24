@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\03FindFactorialDoWhileLoop\bin\Debug\03FindFactorialDoWhileLoop.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\03FindFactorialDoWhileLoop\bin\Debug\03FindFactorialDoWhileLoop.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\03FindFactorialDoWhileLoop\bin\Debug\03FindFactorialDoWhileLoop.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\03FindFactorialDoWhileLoop\obj\Debug\03FindFactorialDoWhileLoop.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\03FindFactorialDoWhileLoop\obj\Debug\03FindFactorialDoWhileLoop.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\03FindFactorialDoWhileLoop\obj\Debug\03FindFactorialDoWhileLoop.pdb
