@@ -1,0 +1,5 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\01WhileLoop-primer\bin\Debug\01WhileLoop-primer.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\01WhileLoop-primer\bin\Debug\01WhileLoop-primer.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\01WhileLoop-primer\bin\Debug\01WhileLoop-primer.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\01WhileLoop-primer\obj\Debug\01WhileLoop-primer.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\UPR7Loops\01WhileLoop-primer\obj\Debug\01WhileLoop-primer.pdb
